@@ -126,3 +126,8 @@ table {
 input {
   outline: none;
 }
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
